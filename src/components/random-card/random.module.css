@@ -1,0 +1,8 @@
+.random__card button{
+    box-shadow: -1px 5px 24px -4px #E15554;
+    background: #f36b6b;
+    transition: .4s;
+}
+.random__card button:active{
+    background: #ff3030;
+}

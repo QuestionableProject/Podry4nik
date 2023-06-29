@@ -1,0 +1,8 @@
+.user__card button {
+    box-shadow: -1px 5px 24px -4px #3BB273;
+    background: #3BB273;
+    transition: .4s;
+}
+.user__card  button:active{
+    background: #24ff8a;
+}
